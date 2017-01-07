@@ -22,3 +22,5 @@ plugin/idea
 # ENSIME specific
 .ensime_cache/
 .ensime
+
+idea/
